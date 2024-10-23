@@ -6,20 +6,14 @@ I'm a Science enthusiast from Bangalore, currently exploring the world of progra
 
 ## 🔭 Current Focus
 
-- Building a static page to sort top 10 students by marks.
-- Developing a Sudoku Solver in Python.
-- Tackling Frontend Mentor challenges.
+- LEET2GIT which syncs the leetcode solutions in github automatically
 
 ## 🌱 Learning Journey
 
 - Frontend: HTML, CSS, JavaScript, Tailwind CSS
-- Backend: FastAPI, SQLAlchemy, Jinja2
-- Other: React.js, exploring Go and Rust
+- Backend: FastAPI, SQLAlchemy, Jinja2, Express 
+- Other: React 
 
-
-## 💻 Projects & Contributions
-
-- Frontend Mentor Challenges: Working on various frontend challenges to sharpen my skills.
 
 ## 🌟 Interests
 
@@ -30,7 +24,7 @@ I'm a Science enthusiast from Bangalore, currently exploring the world of progra
 ## 🔧 Technologies & Tools
 - Programming Languages: Python, C, C++, JavaScript
 - Frameworks & Libraries: FastAPI, Tailwind CSS, React.js (learning)
-- Tools: Figma, Git
+- Tools: Figma, Git, Docker 
 
 
 ## 📫 How to Reach Me
