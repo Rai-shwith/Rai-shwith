@@ -1,44 +1,75 @@
-# 👋 Hello, I'm Ashwith Rai!
+# 🚀 Welcome to My GitHub Profile!
 
-## 🚀 About Me
+### 🌍 **Explore My Work:** [🌐 ashwithrai.me](https://ashwithrai.me)
 
-I'm a Science enthusiast from Bangalore, currently exploring the world of programming and tech! I love coding in __Python__ and have a keen interest in __web development, data science, and full-stack development__.
+---
 
-## 🔭 Current Focus
+## 👋 Hey there, I'm **Ashwith Rai!**
 
-- LEET2GIT which syncs the leetcode solutions in github automatically
+A passionate **developer** and **tech enthusiast** from Bangalore, always curious about solving real-world problems with code! 🚀
 
-## 🌱 Learning Journey
+---
 
-- Frontend: HTML, CSS, JavaScript, Tailwind CSS
-- Backend: FastAPI, SQLAlchemy, Jinja2, Express 
-- Other: React 
+## 🏆 **GitHub Stats & Achievements**
 
+![Ashwith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rai-shwith&show_icons=true&theme=radical&count_private=true)
 
-## 🌟 Interests
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rai-shwith&layout=compact&theme=radical)
 
-- Advanced algorithms and data structures
-- Software development methodologies and best practices
-- Exploring data science techniques and tools
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rai-shwith&theme=radical)](https://git.io/streak-stats)
 
-## 🔧 Technologies & Tools
-- Programming Languages: Python, C, C++, JavaScript
-- Frameworks & Libraries: FastAPI, Tailwind CSS, React.js (learning)
-- Tools: Figma, Git, Docker 
+---
 
+## 🎯 **My Tech Stack**
 
-## 📫 How to Reach Me
+### 💻 **Frontend Development**
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-&nbsp; &nbsp; &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ashwith_rai_0404)  <br>
-&nbsp; &nbsp; &nbsp; [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/raiashwith?text=Hey%20Ashwith%2C%20I%27m%20interested%20in%20your%20projects!%20Let's%20collaborate!)   <br>
-&nbsp; &nbsp; &nbsp; [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/919380531460?text=Hello%20Ashwith%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20love%20to%20connect!)   <br>
-                             
+### 🔧 **Backend Development**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-## 🎯 Future Goals
+### 🗄️ **Database & Query Languages**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- Contribute to open-source projects
-- Work on large-scale projects
-- Dive deeper into data science and advanced algorithms
+### 🛠️ **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 🤝 Let's Connect!
-I'm always open to new opportunities and collaborations. Feel free to reach out to me!
+### 🔗 **Version Control & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 **What I Love?**
+
+- 🖥️ Web Development & Full-Stack Engineering
+- 📊 Data Science & Machine Learning
+- 🛠️ Software Development & Open-Source Contributions
+
+---
+
+## 🎖️ **GitHub Achievements**
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Rai-shwith&theme=radical&margin-w=15&margin-h=15)
+
+---
+
+## 🌎 **Let's Connect!**
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ashwith_rai_0404)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/raiashwith?text=Hey%20Ashwith%2C%20I%27m%20interested%20in%20your%20projects!%20Let's%20collaborate!)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919380531460?text=Hello%20Ashwith%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20love%20to%20connect!)  
+
+---
+
+🔥 Always excited to **collaborate** and build amazing projects together!
+
