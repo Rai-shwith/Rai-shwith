@@ -12,7 +12,6 @@ A passionate **developer** and **tech enthusiast** from Bangalore, always curiou
 
 ## 🏆 **GitHub Stats & Achievements**
 
-![Ashwith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rai-shwith&show_icons=true&theme=radical&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rai-shwith&layout=compact&theme=radical)
 
