@@ -1,14 +1,17 @@
-# 🚀 Welcome to My GitHub Profile!
+<!-- Banner with typing animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF2D55&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ashwith+Rai!;Full-Stack+%7C+AI+%7C+Backend+Dev;Always+Learning+%F0%9F%9A%80" alt="Typing Animation" />
+</h1>
+
+### 👋 About Me  
+
+- 🎓 Engineering student at **MS Ramaiah Institute of Technology, Bangalore**.  
+- 💡 Passionate about **software engineering, AI, and backend systems**.  
+---
 
 ### 🌍 **Explore My Work:** [ashwithrai.me](https://ashwithrai.me)
-
 ---
 
-### 👋 Hey there, I'm Ashwith Rai!
-
-I'm a passionate **Electronics and Communication Engineering (ECE) student** with a deep love for coding, based in Bangalore, India. I'm driven by the challenge of building innovative solutions and continuously expanding my skillset in the ever-evolving world of tech. 🚀
-
----
 ### 📊 My GitHub Dashboard  
 
 <p align="center">
